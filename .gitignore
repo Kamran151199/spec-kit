@@ -27,7 +27,6 @@ env/
 .venv
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
@@ -35,6 +34,6 @@ env/
 
 # Project specific
 *.log
-.env
-.env.local
 *.lock
+config.bat
+node_modules
